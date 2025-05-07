@@ -7,7 +7,7 @@ export default function Page() {
       <div>
         <Image
           src="/aa.jpg"
-          alt=""
+          alt="Logo"
           width={900}
           height={800}
           className=" object-contain  w-full "
